@@ -1,1 +1,1 @@
-# SortingArithemetic
+# Sortingarithemetic
